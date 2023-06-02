@@ -1,12 +1,9 @@
 {
   "replace": false,
   "origins": [
-     "medievalorigins:arachnae",
-     "medievalorigins:banshee",
      "medievalorigins:daemon",
      "medievalorigins:dwarf",
      "medievalorigins:elf",
-     "medievalorigins:fae",
      "medievalorigins:goblin",
      "medievalorigins:gorgon",
      "medievalorigins:knight",
